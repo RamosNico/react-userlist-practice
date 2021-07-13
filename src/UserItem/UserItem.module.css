@@ -1,0 +1,7 @@
+.item {
+    border: solid 1px rgba(158, 158, 158, 0.3);
+}
+
+.item p {
+    padding-left: 0.5rem;
+}
